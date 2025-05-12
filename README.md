@@ -1,7 +1,5 @@
 # ASK
 # EX-05 
-## Name: AADHITHYA SV (212223060001)
-
 ## AIM
 To perform Amplitude Shift Keying{ASK} using Python
 
